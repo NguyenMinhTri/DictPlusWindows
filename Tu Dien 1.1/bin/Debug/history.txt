@@ -1,0 +1,320 @@
+332	1	pedantic	pɪˈdæntɪk	(thuộc) người thông thái rởm
+331	1	fender	ˈfendər	bộ giảm chấn
+330	1	get students ideas about what can be done to fix the problem (as they understand it right now).	♥	có được học sinh những ý tưởng về những gì có thể được thực hiện để khắc phục vấn đề (như họ hiểu nó ngay bây giờ).
+329	1	realistic	ˌriːəˈlɪstɪk	(văn học) hiện thực
+328	1	this class has some more behavior to it and it is more than just a data structure. how realistic is this? have the students study this class the same as the previous one to determine what changes they might make.	♥	lớp này có một số hành vi nhiều hơn để nó và nó là nhiều hơn chỉ là một cấu trúc dữ liệu. làm thế nào thực tế là điều này? có nghiên cứu sinh viên này lớp học giống như một trước đó để xác định thay đổi những gì họ có thể thực hiện.
+327	1	behavior	♥	cách xử lý
+325	1	i’m looking for afender strat	♥	Tôi đang tìm kiếm một bắt đầu Fender
+324	1	maintain	meɪnˈteɪnɪŋ	giữ, duy trì; bảo quản; khai thác
+323	1	is this easier to understand?	♥	Điều này là dễ hiểu?
+322	1	examine this diagram to see what information is lost. questions to ask are:	♥	kiểm tra sơ đồ này để xem những thông tin bị mất. câu hỏi là:
+321	1	inventory	in'ventri	kiểm kê
+320	1	predecessor	'pri:disesə	phần tử trước; người đi trước
+319	1	locate guitars for customers	♥	xác định vị trí guitar cho khách hàng
+318	1	locate	ləʊˈkeɪtɪŋ	định xứ, định vị trí; được đặt
+316	1	maintain a guitar inventory	♥	duy trì một hàng tồn kho guitar
+315	1	inevitable	ɪnˈevɪtəbl	không thể tránh được, chắc chắn xảy ra ( (nghĩa đen) & (nghĩa bóng))
+314	1	good software not only solves immediate problems, but it can be maintained and modified to address the inevitable changes that the customer will want	♥	phần mềm tốt không chỉ giải quyết vấn đề ngay lập tức, nhưng nó có thể được duy trì và thay đổi để địa chỉ thay đổi không thể tránh khỏi mà khách hàng sẽ muốn
+313	1	modified	♥	được thay đổi, bị biến đổi
+312	1	maintained	♥	liên tục, không tắt (sóng)
+311	1	solves	♥	giải, giải thích, làm sáng tỏ (một vấn đề); phá (án)
+310	1	dependency	dɪˈpendənsi	danh từ  quốc gia phụ thuộc, quốc gia lệ thuộc 
+309	1	recent	'ri:snt	 - gần đây, xảy ra gần đây, mới đây, mới xảy ra
+308	1	dealer	'di:lə	 - người buôn bán
+307	1	corporate	'kɔ:pərit	 - (thuộc) đoàn thể; hợp thành đoàn thể
+305	1	meanvalv	♥	báo cáo
+304	1	and	ænd	và, cùng, với
+303	1	documentation	ɪʃn	lập chứng từ (hệ chứng từ
+302	1	sender	ˈsendər	người gửi (thư, bưu kiện)
+301	1	object	'ɔbdʤikt	đối tượng; mục tiêu; đồ vật
+300	1	share	ʃerd	chia sẻ
+299	1	hello	həˈloʊ	thán từ  chào anh, chào chị 
+297	1	ccb hàn tụ tập phản đối nhân chứng ông lân và bà thanh...	♥	CCB hàn tụ tổ phản đối nhân chứng còn lân và bà thanh...
+296	1	lack of client, customer, or end user support	♥	thiếu hỗ trợ khách hàng, khách hàng hoặc người dùng cuối
+295	1	lack of management support	♥	thiếu sự hỗ trợ quản lý
+294	1	lack of facilitation or bad facilitation	♥	thiếu sự tạo thuận lợi hoặc tạo thuận lợi cho tình trạng
+293	1	backlog not ready at beginning of sprint	♥	việc tồn đọng chưa sẵn sàng bắt đầu chạy nước rút
+292	1	software not tested at end of sprint	♥	phần mềm chưa được thử nghiệm ở cuối của sprint
+291	1	software not tested at end of sprint  (d	♥	phần mềm chưa được thử nghiệm ở cuối của sprint (d
+290	1	internet	♥	liên mạng
+289	1	informative	ɪn id="informative__12">ˈfɔːrmətɪv	thông tin, tin
+288	1	explanation	ˌekspləˈneɪʃn	sự giải thích
+287	1	primitives	♥	nguyên thuỷ, ban sơ
+286	1	however if a primitive were defined as part of an instance of an object, that primitive would be on the heap	♥	Tuy nhiên nếu một nguyên thủy đã được định nghĩa như là một phần của một thể hiện của một đối tượng, mà nguyên thủy sẽ trên đống
+285	1	allocated	♥	chỉ định; dùng (số tiền vào việc gì)
+283	1	hello world	♥	Chào thế giới
+282	1	credentials	krəˈdenʃlz	 - giấy uỷ nhiệm, thư uỷ nhiệm, quốc thư
+281	1	mechanism	ˈmekənɪzəm	thiết bị hàm
+280	1	tile	taɪl	gạch rót, gạch ống để rót kiểu xifông (đúc thép thỏi); ngói, tấm lợp
+279	1	fungi	'fʌɳgəs	 - nấm
+278	1	parallax	ˈpærəlæks	thị sai
+277	1	increment our offset and loop if required	♥	tăng bù đắp của chúng tôi và vòng nếu cần thiết
+276	1	bottom	ˈbɑːtəm	Dưới, Đáy
+275	1	else	els	(với các đại từ và phó từ khẳng định, nghi vấn hoặc phủ định) thêm vào hoặc ngoài (cái đã được đề cập)
+274	1	display the first navigation drawer view on app launch	♥	Hiển thị giao diện điều hướng ngăn kéo đầu tiên trên khởi động ứng dụng
+273	1	activity	ækˈtɪvəti	Hoạt động
+272	1	hải custom lại đó bạn, ví dụ như bạn phải tự định nghĩa lại phần giao diện menu đó như thêm 1 cùng view và cho nó 1 cái layout, xử lý hiệu ứng cho layout này ...	♥	Hải tùy chỉnh lại đó bạn, ví dụ như bạn phải tự định nghĩa lại phần giao diện trình đơn đó như thêm 1 cùng xem và cho nó 1 cái bố trí, xử lý hiệu ứng cho bố trí này...
+271	1	v cả thôi. k cần phải thế. fan có 2 loại fan bạn ạ..	♥	v đoàn thôi. k cần phải thế. fan hâm mộ có 2 loại fan hâm mộ bạn ạ...
+270	1	navigation drawer	♥	ngăn kéo chuyển hướng
+269	1	implementing	♥	đồ dùng (đồ đạc quần áo...), dụng cụ, công cụ; phương tiện
+268	1	fragment	ˈfræɡmənt	đoạn
+267	1	mentioned	♥	sự kể ra, sự nói đến, sự đề cập
+266	1	specific	spəˈsɪfɪk	riêng
+265	1	common	ˈkɑːmən	Phổ biến
+264	1	motion	ˈmoʊʃn	cấu truyền động
+263	1	simulating	♥	bắt chước
+262	1	features	♥	đường bao
+261	1	simply	ˈsɪmpli	Một cách dễ dàng
+260	1	require	rɪˈkwaɪərɪŋ	cần
+259	1	reply	rɪˈplaɪɪŋ	câu trả lời
+258	1	gravity	ˈɡrævəti	 - (vật lý) sự hút, sự hấp dẫn; trọng lực; trọng lượng
+257	1	center	ˈsentər	bản mẫu in
+256	1	layout	ˈleɪaʊt	nhân
+255	1	deductions	♥	báo trước, nói trước, tiên đoán, dự đoán, dự báo
+254	1	misunderstand	'misʌndə'stænd	hiểu lầm, hiểu sai
+253	1	theory	'θiəri	lý thuyết
+252	1	probability	probability	 - sự có thể có, sự chắc hẳn, sự có khả năng xảy ra; sự có lẽ đúng, sự có lẽ thật
+250	1	row	rou	row /rou/ * danh từ  - hàng, dây =a row of trees+ một hàng cây =to sit in a row+ ngồi thành hàng  - dãy nhà phố  - hàng ghế (trong rạp hát...) =in the front row+ ở hàng ghế đầu  - hàng cây, luống (trong vườn) !a hard row to hoe  - việc rất khó làm ((từ Mỹ,nghĩa Mỹ)) một việc hắc búa !it does not amount to a row of beans (pins)  - không đáng một trinh !to hoe a big row  - (từ Mỹ,nghĩa Mỹ) làm một công việc lớn, làm một công việc quan trọng !to hoe one's [own] row  - tự cáng đáng lấy công việc của mình, làm việc không có sự giúp đỡ !a new row to hoe  - một công việc mới * danh từ  - cuộc đi chơi thuyền =to go for a row on the river+ đi chơi thuyền trên sông  - sự chèo thuyền * ngoại động từ  - chèo (thuyền), chèo thuyền chở (hành khách qua sông...) =to row someone across the river+ chèo thuyền chở ai sang sông  - chèo đua với (ai)  - được trang bị (bao nhiêu) mái chèo =a boat rowing eight oars+ một cái thuyền được trang bị tám mái chèo * nội động từ  - chèo thuyền  - ở vị trí (nào) trong một đội bơi thuyền =to row 5 in the crerw+ ở vị trí thứ 5 trong đội bơi thuyền =to row stroke in the crew+ là người đứng lái trong đội bơi thuyền !to row down  - chèo vượt lên trên (ai, trong một cuộc bơi thuyền) !to row out  - bắt chèo đến mệt nhoài !to row over  - bỏ xa một cách dễ dàng (trong cuộc bơi thuyền) !to row against the flood (wind)  - làm việc gì trong hoàn cảnh có nhiều trở ngại chống đối !to row dry  - chèo khan, đưa đẩy mái chèo nhưng không chạm vào nước * danh từ  - (thông tục) sự om sòm, sự huyên náo =to kick up (make) a row+ làm om lên =what's the row?+ việc gì mà om lên thế?  - cuộc câi lộn; cuộc đánh lộn =to have a row with someone+ đánh lộn với ai  - sự khiển trách, sự quở trách, sự mắng mỏ =to get into a row+ bị khiển trách * ngoại động từ  - khiển trách, quở trách, mắng mỏ (ai) * nội động từ  - làm om sòm  - câi nhau om sòm; đánh lộn (với ai...) =to row with someone+ câi nhau om sòm với ai; đánh lộn với ai  
+249	1	game menus	♥	trò chơi menu
+247	1	frustum	♥	Danh từ, số nhiều .frusta, frustums Hình cụt 
+246	1	textview txtview = (textview) findviewbyid(r.id.textview);	♥	textview txtview = findviewbyid(r.id.textview) (textview);
+244	1	i like this. this is quite simple for calling the recognizerintent and processing the received result in onactivityresult. thanks you	♥	tôi như thế này. Điều này là khá đơn giản để kêu gọi recognizerintent và xử lý kết quả nhận được trong onactivityresult. cảm ơn bạn
+243	1	period	'piəriəd	[n] Kỳ, thời kỳ, thời gian 
+242	1	instance	ˈɪnstəns	[n] Thí dụ, ví dụ (chứng minh, minh hoạ) 
+241	1	null	nʌl	[adj] Vô hiệu, không có hiệu lực 
+240	1	iv been looking for something like this for last couple days now	♥	IV được tìm kiếm một cái gì đó như thế này cho qua vài ngày nay
+239	1	broadcast	'brɔ:dkɑ:st	Cũng như trong phát thanh hoặc truyền hình, một phiên truyền được gởi tới cho nhiều hơn một người nhận. Trong truyền thông và trên mạng, một thông điệp truyền đại chúng là một thông điệp được phân phát cho mọi trạm.
+238	1	verification	ˌverɪfɪˈkeɪʃn	kiểm tra
+237	1	launcher	ˈlɔːntʃər	cái khởi động, bộ phận khởi động; dàn phóng
+236	1	regarding	rɪ>ˈɡɑːrdɪŋ	về ( ai/cái gì), về việc, đối với (vấn đề...)
+235	1	valuable	ˈvæljuəbl	có giá trị lớn, quý giá; có giá trị nhiều tiền
+234	1	intending	♥	tương lai
+233	1	custom	'kʌstəm	 - phong tục, tục lệ
+232	1	android how to start activity on boot-up	♥	Android làm thế nào để bắt đầu hoạt động ngày khởi động-up
+230	1	describe	dɪˈskraɪbɪŋ	mô tả
+229	1	interest rates	♥	lãi xuất
+228	1	adjust	əˈdʒʌstɪŋ	điều chỉnh
+227	1	ensure	ɪnˈʃʊrɪŋ	đảm bảo
+226	1	avaiable	♥	có sẵn
+225	1	satisfaction	ˌsætɪsˈfækʃn	sự thỏa mãn
+224	1	productive	prəˈdʌktɪv	có hiệu quả
+223	1	persuasion	ərˈsweɪʒn	sự thuyết phục
+222	1	market	'mɑ:kit	thị trường
+221	1	inspiration	ˌɪnspəˈreɪʃn	sự truyền cảm hứng
+220	1	fad	fæd	xu hướng nhất thời
+219	1	currenly	♥	hiện tại
+218	1	convince	kənˈvɪnsɪŋ	thuyết phục
+217	1	competition	,kɔmpi'tiʃn	cạnh tranh, đối thủ
+216	1	consume	kənˈsuːmɪŋ	tiêu thụ
+215	1	compare something with something	♥	so sánh cái này với cái kia
+214	1	compare to	♥	so sánh với
+213	1	attract, appeal to	♥	thu hút
+212	1	mutual	ˈmjuːtʃuəl	chung
+211	1	particular, specific	♥	rõ ràng , đặc biệt
+210	1	resolve	rɪˈzɔːlvɪŋ	giải quyết
+209	1	provision	prəˈvɪʒn	điều khoảng, điều kiện
+208	1	obligate	'ɔbligeit	bắc buộc
+207	1	establish	ɪˈstæblɪʃɪŋ	thiết lặp
+206	1	assurance	ə'ʃuərəns	đảm bảo
+205	1	determine	dɪˈtɜːrmɪnɪŋ	quyết định
+204	1	negotiation	nɪ>ˌɡoʊʃiˈeɪʃn	sự thương lượng, đàm phán
+203	1	contract	'kɔntrækt	hợp đồng
+202	1	commitment	kəˈmɪtmənt	sự cam kết
+200	1	abide by, comply with, conform to, adhere to	♥	tuân thủ
+199	1	refund	ˈriːfʌnd	hoàn tiền lại
+198	1	reliable	rɪˈlaɪəbl	đáng tin cậy
+197	1	function	ˈfʌŋkʃn	chức năng
+196	1	delivered	♥	giao hàng
+195	1	outstanding	aʊtˈstændɪŋ	nỗi bật
+194	1	among + N	♥	among + N
+193	1	fund	fʌnd	hỗ trợ, hủy
+192	1	conduct	kənˈdʌktɪŋ	thực hiện
+191	1	purchase	ˈpɜːrtʃəs	mua
+190	1	depend on	♥	dựa vào
+189	1	individual	ˌɪndɪˈvɪdʒuəl	cá nhân, riêng biệt
+188	1	dedication	ˌdedɪˈkeɪʃn	sự cống hiến
+187	1	renowned	rɪˈnaʊnd	nỗi tiếng
+186	1	more than, over	♥	hơn
+185	1	suitable project	♥	dự án thích hợp
+184	1	via	ˈviːə	thông qua
+183	1	communicate	kəˈmjuːnɪkeɪtɪŋ	giao tiếp
+182	1	tend on	♥	có khuynh hướng
+181	1	take something into account	♥	xem xét việc gì
+180	1	sightseeing	ˈsaɪtsiːɪŋ	tham quan, ngắm cảnh
+179	1	offer does not apply to watercolors	♥	sự cung cấp này không áp dụng cho màu nước
+178	1	absolotely free	♥	hoàn toàn miễn phí
+177	1	crew	kruː	đội , nhóm
+176	1	temporary	'tempərəri	tạm thời
+175	1	assume	əˈsuːmɪŋ	cho rằng
+174	1	admission fee	♥	phí vào cổng
+173	1	disappointed	ˌdɪsəˈpɔɪntɪd	thất vọng
+172	1	make a reservation, reserve	♥	đặt chỗ trước
+171	1	latest releases	♥	sản phẩm tung ra thị trường mới nhất
+170	1	afford	əˈfɔːrdɪŋ	có khả năng chỉ trả
+169	1	affordable prices	♥	giá phải chăn
+168	1	board	bɔːrd	lên máy bay
+167	1	destination	ˌdestɪˈneɪʃn	điểm đến, đích đến
+166	1	probably	♥	có thể
+165	1	pay increase	♥	mức tăng lương
+164	1	Be likely to V1	♥	rất có thể
+163	1	at least	♥	ít nhất
+162	1	majority of	♥	phần lớn
+161	1	survey	ˈsɜːrveɪ	khảo sát
+160	1	thief	θiːvz	kẻ trộm
+159	1	theft	θeft	sự ăn cắp
+158	1	get involved	♥	tham gia vào
+157	1	keep up with	♥	bắt kiệp
+156	1	procedure	prəˈsiːdʒər	thủ tục
+155	1	discriminate	dɪˈskrɪmɪneɪtɪŋ	phân biệt, đối xử
+154	1	supervisor	'sju:pəvaizə	giám sát
+153	1	official	əˈfɪʃl	chính thức
+152	1	no longer	♥	không còn nữa
+151	1	coupon	'ku:pɔn	phiếu khuyến mãi
+150	1	attention	əˈtenʃn	chú ý
+149	1	impress	ɪmˈpresɪŋ	ấn tượng
+148	1	anticipate, expect	♥	mong đợi
+147	1	apply for	♥	nộp để xin vào đâu
+146	1	apply to	♥	nộp cho ai ?
+145	1	file, submit	♥	nộp
+144	1	attendee	ˌætenˈdiː	người tham dự
+143	1	attendant	əˈtendənt	tiếp viên
+142	1	attendence	♥	sự tham dự
+141	1	attend	əˈtendɪŋ	tham dự
+140	1	pick you up	♥	đón
+139	1	comfirm	♥	xác nhận
+138	1	leading	'li:diɳ	hàng đầu
+137	1	distraction	dɪˈstrækʃn	sự sao nhãn
+136	1	monitor	'mɔnitə	quản lý
+135	1	base on	♥	được dựa trên
+133	1	famous for	♥	nỗi tiếng về
+132	1	well-known	'wel'noun	nỗi tiếng
+131	1	in turn	♥	lần lượt
+130	1	Don't leave your bags attended	♥	đừng rời bỏ túi sách của bạn mà không được chú ý tới
+129	1	utilities	♥	tiện ích
+128	1	sencerely	♥	1 cách chân thành
+127	1	cut down on	♥	cắt giảm
+126	1	inquiry	in'kwaiəri	thư yêu cầu thông tin
+125	1	essential	ɪˈsenʃl	cần thiết
+124	1	citizen	ˈsɪtɪzn	công dân
+123	1	senior	ˈsiːniər	lớn tuổi
+122	1	hesitate	ˈhezɪteɪtɪŋ	do dự
+121	1	appliance	əˈplaɪəns	thiết bị điện
+120	1	efficient	ɪˈfɪʃnt	hiệu quả
+119	1	ineed	♥	thật vậy
+118	1	agent, representative	♥	người đại diện
+117	1	for further information	♥	để biết thêm thông tin
+116	1	feature	ˈfiːtʃər	có, tính năng, nổi bật
+115	1	approximately	əˈprɑːksɪmətli	sắp xỉ
+114	1	bargain	ˈbɑːrɡən	món hời, mặc cả
+113	1	specialist, expert	♥	chuyên gia
+112	1	merchandise	ˈmɜːrtʃəndaɪz	hàng hóa
+111	1	identify	aɪˈdentɪfaɪɪŋ	nhận diện, nhận dạng
+110	1	damage	ˈdæmɪdʒ	làm thiết hại
+109	1	separately	ˈseprətli	1 cách tách biệt
+108	1	love each other	♥	yêu nhau
+107	1	valuables	ˈvæljuəblz	tài sản , vật có giá trị
+106	1	be aware of	♥	nhận thức về
+105	1	subject to	♥	phải chịu, phải chấp nhận
+104	1	object to, oppose to	♥	phản đối
+103	1	per day	♥	trên ngày
+102	1	salary	ˈsæləri	tiền lương
+101	1	wage	weɪdʒ	tiền công
+100	1	definitely	ˈdefɪnətli	hoàn toàn, chắc chắn
+99	1	campaign	kæmˈpeɪn	chiến dịch
+98	1	potential	pəˈtenʃl	tiềm năng
+97	1	significantly	sɪɡˈnɪfɪkəntli	1 cách đáng kể
+96	1	dismiss, fire	♥	sa thải
+95	1	guest speaker	♥	khách mời nói chuyện
+94	1	opening ceremony	♥	nghi lễ khai giảng
+93	1	be about to V1	♥	sắp sửa
+92	1	submit	səbˈmɪtɪŋ	nộp
+91	1	aspect	ˈæspekt	khía cạch
+90	1	during	'djuəriɳ	+ thời kì
+89	1	suspension	səˈspenʃn	sự đình chỉ
+88	1	tolerate	ˈtɑːləreɪtɪŋ	tha thứ
+87	1	inform	ɪnˈfɔːrmɪŋ	thông báo
+86	1	financial aid	♥	hỗ trợ tài chính
+85	1	similar	ˈsɪmələr	tương tự
+84	1	construct	♥	xây dựng
+83	1	instruct	ɪnˈstrʌktɪŋ	hướng dẫn
+82	1	facility	fəˈsɪləti	cơ sở, địa điểm
+81	1	make decisions	♥	quyết định
+80	1	unfortunately	ʌn>ˈfɔːrtʃənətli	không may thay
+79	1	consecutive	kənˈsekjətɪv	liên tiếp
+78	1	in addtion to	♥	thêm vào đó
+77	1	guarantee	ˌɡærənˈtiː	đảm bảo
+76	1	exceed	ɪkˈsiːdɪŋ	vượt quá
+75	1	regarding, related to, concerning	♥	liên quan tới
+74	1	remain	rɪˈmeɪnɪŋ	còn lại
+73	1	schedule	ˈʃedjuːl	lịch học
+72	1	make effort	♥	nổ lực
+71	1	assignment	əˈsaɪnmənt	nhiệm vụ được giao
+70	1	throughout	θruːˈaʊt	xuyên suốt
+69	1	regularly	'regjuləri	thường xuyên
+68	1	discount	ˈdɪskaʊnt	giảm giá
+67	1	in person	♥	trực tiếp
+66	1	appreciate	əˈpriːʃieɪtɪŋ	cảm kích
+65	1	deal with	♥	xử lí, giải quyết
+64	1	memo	,memə'rændə	thư báo nội bộ
+63	1	staff	stæf	cán bộ, nhân viên
+62	1	agenda	əˈdʒendə	chương trình nghị sự
+61	1	annual	ˈænjuəl	hàng năm
+60	1	therefore	'ðeəfɔ:	vì thế
+59	1	equal to	♥	tương đương
+58	1	almost all	♥	hầu như tất cả
+57	1	according to	♥	theo như
+56	1	serve as, work as	♥	+ 1 vị trí hoặc 1 nghề nghiệp
+55	1	matter	ˈmætər	vấn đề nghiêm ngặc
+54	1	policy	'pɔlisi	chính sách
+53	1	priority	praɪɔːrəti	ưu tiên
+52	1	hygiene	ˈhaɪdʒiːn	vệ sinh
+51	1	remind	rɪˈmaɪndɪŋ	nhắc nhở
+50	1	encourage	ɪnˈkɜːrɪdʒɪŋ	khuyến khích
+49	1	people in need, children in need, product in demand	♥	giúp ...
+48	1	without	wɪˈðaʊt	không có
+47	1	contribution	kɑːntrɪˈbjuːʃn	đóng góp
+46	1	cost	kɔːst	phí nhỏ
+45	1	charge	tʃɑːrdʒ	phí lớn
+44	1	routine	ruːˈtiːn	thói quen hằng ngày
+43	1	include, enclose, attach	♥	đính kèm
+42	1	be sure to + V1, make sure to + V1	♥	phải chắc chắn làm gì
+41	1	improve flexibility	♥	cải thiện sự linh hoạt
+40	1	benefit	ˈbenɪfɪt	lợi ích
+39	1	expert	'ekspə:t	chuyên gia
+38	1	convenience	kənˈviːniəns	tiện lợi
+37	1	take advantage of	♥	tận dụng, lợi dụng
+36	1	record	ˈrekərd	hồ sơ
+35	1	recommend, suggest, advise	♥	khuyên bảo, đề nghị
+34	1	make an appointment	♥	sắp xếp 1 cuộc hẹn
+33	1	announce	əˈnaʊnsɪŋ	công bố
+32	1	wonder if	♥	tự hỏi liệu
+31	1	estimate	ˈestɪmət	ước tính
+30	1	prior to + Ving	♥	= before + Ving
+29	1	take effect, come in effect, be/become effective, be in effect	♥	có hiệu lực
+28	1	coverage	ˈkʌvərɪdʒ	[n] phạm vi bảo hiểm
+27	1	cover	ˈkʌvərɪŋ	[v] bảo hiểm
+26	1	insurance	ɪn>ˈʃʊrəns	bảo hiểm
+25	1	superior to	♥	better than
+24	1	breach	briːtʃ	phá vỡ
+23	1	compensation	kɑːmpenˈseɪʃn	sự bồi thường
+22	1	seek	sɔːt	tìm kiếm
+21	1	warrantly	♥	bảo hành
+20	1	expire	ɪkˈspaɪərɪŋ	hết hạn
+19	1	fare	fer	tiền vé
+18	1	fines	fi'nes	tiền phạt
+17	1	maintenance	ˈmeɪntənəns	sự bảo trì
+16	1	as well as	♥	cũng như , ( công thức song song như and )
+15	1	wholesale	'houlseil	bán sỉ
+14	1	depression	dɪˈpreʃn	sự suy thoái
+13	1	retail	'ri:teil	bán lẻ
+12	1	variety of	♥	đa dạng
+11	1	located	♥	tọa lạc
+10	1	observe	əbˈzɜːrvɪŋ	tuân thủ, quan sát
+9	1	punctual	ˈpʌŋktʃuəl	đúng giờ
+7	1	expect	ɪkˈspektɪŋ	mong đợi
+6	1	complaint	kəmˈpleɪnt	làm phiền
+5	1	productivity	proʊdʌkˈtɪvəti	năng suất
+4	1	take the time	♥	dành thời gian
+3	1	keep out of the reach	♥	tranh xa tầm với
+2	1	consult	kənˈsʌltɪŋ	tư vấn
+1	1	refrigerate	rɪˈfrɪdʒəreɪtɪŋ	làm lạnh

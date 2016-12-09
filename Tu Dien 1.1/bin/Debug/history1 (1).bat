@@ -1,0 +1,3 @@
+3	1	assurance	 (n): sự cam đoan, bảo đảm, chắc chắn; sự tin chắc, tự tin/ The sales associate gave his assurance that the missing keyboard would be replaced:Người bán hàng đưa ra lời cam đoan cái bàn phím bị thiếu sẽ được thay vào ngày
+2	1	agreement	 (n) hợp đồng, giao kèo, sự đồng ý,thỏa thuận với nhau / The landlord and tenant were in agreement that the rent should be prorated to the:Người chủ và người thuê đã đồng ý rằng tiền thuê sẽ được chia theo tỷ lệ đến giữa
+1	1	abide by	(v) tôn trọng, tuân theo, giữ (lời) / The two parties agreed to abide by the judge's decision : Hai đảng phái đồng ý sẽ tôn trọng phán quyết của quan tòa

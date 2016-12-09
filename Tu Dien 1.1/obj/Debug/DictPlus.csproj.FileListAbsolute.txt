@@ -1,0 +1,174 @@
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.ResolveComReference.cache
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.MenuRadio.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.GenerateResource.Cache
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe.config
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe.licenses
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.pdb
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\DictPlus.resources.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\DictPlus.resources.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.pdb
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csprojResolveAssemblyReference.cache
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\dataLichSu.mdf
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\dataLichSu_log.ldf
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe.config
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.ResolveComReference.cache
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.pdb
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.pdb
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\DictPlus.resources.dll
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.GenerateResource.Cache
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe.licenses
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\DictPlus.resources.dll
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\LichSuTraTu.mdf
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\LichSuTraTu_log.ldf
+G:\Software\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csprojResolveAssemblyReference.cache
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe.config
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.ResolveComReference.cache
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.pdb
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\LichSuTraTu.mdf
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\LichSuTraTu_log.ldf
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.pdb
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\DictPlus.resources.dll
+G:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csprojResolveAssemblyReference.cache
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.GenerateResource.Cache
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe.licenses
+G:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\DictPlus.resources.dll
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe.config
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.ResolveComReference.cache
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.pdb
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.pdb
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\DictPlus.resources.dll
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csprojResolveAssemblyReference.cache
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.GenerateResource.Cache
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe.licenses
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\DictPlus.resources.dll
+F:\Google Drive\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MetroFramework.dll
+H:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe.config
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.ResolveComReference.cache
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.pdb
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csprojResolveAssemblyReference.cache
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.GenerateResource.Cache
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe.licenses
+H:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe
+H:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.pdb
+H:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\DictPlus.resources.dll
+H:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MetroFramework.dll
+H:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\DictPlus.resources.dll
+H:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Nofition.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe.config
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.ResolveComReference.cache
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.pdb
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csprojResolveAssemblyReference.cache
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Nofition.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.csproj.GenerateResource.Cache
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\DictPlus.exe.licenses
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.exe
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DictPlus.pdb
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\DictPlus.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Data.v15.1.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Data.v15.1.xml
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\TuDien\master dicplus\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\DictPlus.resources.dll

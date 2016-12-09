@@ -1,0 +1,44 @@
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\Tu Dien 1.1.exe.config
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\Tu Dien 1.1.exe
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\Tu Dien 1.1.pdb
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.csprojResolveAssemblyReference.cache
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.csproj.GenerateResource.Cache
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.exe
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.pdb
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.csproj.ResolveComReference.cache
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\Tu Dien 1.1.resources.dll
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\Tu Dien 1.1.resources.dll
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.exe.licenses
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.MenuRadio.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+D:\C#\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\Tu Dien 1.1.exe.config
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Interop.WMPLib.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.csproj.ResolveComReference.cache
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.exe
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.pdb
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.csprojResolveAssemblyReference.cache
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.tb.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.MenuRadio.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Predictive.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Properties.Resources.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.Question.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.SplashScreen1.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.studyVocabulary.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu_Dien_1._1.FormSOHA.vi.resources
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.csproj.GenerateResource.Cache
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\Tu Dien 1.1.exe.licenses
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\Tu Dien 1.1.exe
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\Tu Dien 1.1.pdb
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\vi\Tu Dien 1.1.resources.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\Tu Dien 1.1\Tu Dien 1.1\obj\Debug\vi\Tu Dien 1.1.resources.dll
